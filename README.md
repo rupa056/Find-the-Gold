@@ -1,4 +1,2 @@
 # Find-the-Gold
-using HTML, JavaScript and CSS.
-#About
-Find the Gold is a simple yet fun web-based puzzle game where a piece of gold is hidden randomly in a 20x20 grid. Your goal is to locate it by clicking on the cells. After each wrong guess, you’ll receive directional hints like “Move Up & Left ↖️” to help guide your next move. The game also highlights the entire row and column of your guess in red for better visual tracking.
+Using HTML, JavaScript and CSS. Find the Gold is a simple yet fun web-based puzzle game where a piece of gold is hidden randomly in a 20x20 grid. Your goal is to locate it by clicking on the cells. After each wrong guess, you’ll receive directional hints like “Move Up & Left ↖️” to help guide your next move. The game also highlights the entire row and column of your guess in red for better visual tracking.
